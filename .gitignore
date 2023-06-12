@@ -1,0 +1,7 @@
+*.DB-journal
+/test
+/scripts
+/backups
+Data/ciku.db
+Data/ciku_extend.db
+Yzime.code-workspace
